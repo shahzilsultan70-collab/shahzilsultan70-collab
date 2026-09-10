@@ -77,7 +77,7 @@ A full-stack school management system featuring authentication, role-based acces
 
 A project exploring Retrieval-Augmented Generation, document processing, embeddings, vector databases, similarity search, and AI-powered responses.
 
-**Python • RAG • Embeddings • Vector Database**
+**Node.js • RAG • Embeddings • Qdrant Vector Database**
 
 ---
 
@@ -101,33 +101,11 @@ Artificial Intelligence
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shahzilsultan70-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzilsultan70-collab&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shahzilsultan70-collab&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzilsultan70-collab&theme=tokyo-night&hide_border=true" />
 
 </div>
 
