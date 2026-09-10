@@ -1,16 +1,155 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shahzilsultan70-collab/shahzilsultan70-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Shahzil Sultan
 
-Here are some ideas to get you started:
+### 💻 Full-Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**React • Next.js • TypeScript • Node.js • NestJS**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,mongodb,mysql,git,github" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/shahzil-sultan-99007237b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const shahzil = {
+  education: "BS Computer Science",
+  role: "Full-Stack Web Developer",
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "NestJS"],
+  databases: ["MongoDB", "MySQL", "Firebase"],
+  tools: ["Git", "GitHub", "VS Code", "Postman", "Docker"],
+  currentlyLearning: ["RAG", "Vector Databases", "AI Agents"],
+  goal: "Build useful products and continuously improve 🚀"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 School Management System
+
+A full-stack school management system featuring authentication, role-based access control, student and teacher management, fees, leaves, document uploads, profile management, and email notifications.
+
+**React • TypeScript • NestJS • MongoDB • JWT**
+
+---
+
+### 🤖 Simple RAG
+
+A project exploring Retrieval-Augmented Generation, document processing, embeddings, vector databases, similarity search, and AI-powered responses.
+
+**Python • RAG • Embeddings • Vector Database**
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Artificial Intelligence
+        ↓
+    Embeddings
+        ↓
+ Vector Databases
+        ↓
+ Similarity Search
+        ↓
+       RAG
+        ↓
+ Knowledge Graphs
+        ↓
+    AI Agents 🤖
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shahzilsultan70-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzilsultan70-collab&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shahzilsultan70-collab&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzilsultan70-collab&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shahzil-sultan-99007237b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 Build • Learn • Improve • Repeat 🚀
+
+<img src="https://komarev.com/ghpvc/?username=shahzilsultan70-collab&style=flat-square&color=blue" />
+
+</div>
+
