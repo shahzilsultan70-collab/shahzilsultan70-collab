@@ -52,7 +52,7 @@ const shahzil = {
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,qdrant" />
 </p>
 
 ### 🔧 Tools
