@@ -52,7 +52,8 @@ const shahzil = {
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,qdrant" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" height="48" alt="Qdrant" />
 </p>
 
 ### 🔧 Tools
